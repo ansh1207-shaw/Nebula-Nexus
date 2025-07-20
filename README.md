@@ -1,2 +1,2 @@
 # Nebula-Nexus
-Campus Club Dashboard is a responsive web platform to showcase student achievements, club events, and tech domains using clean UI, animations (GSAP), and profile-based insights.
+Campus Club Dashboard is a responsive and interactive web application that highlights the vibrant student club culture across a college campus. Built using HTML, CSS, and JavaScript with GSAP for animations, the platform features a dynamic Dashboard, detailed Student Profiles, and an Events page. It showcases participant achievements, domains of expertise (AI/ML, Web Dev, etc.), and integrates GitHub links for transparency. The project aims to enhance visibility, collaboration, and engagement among students and clubs.
