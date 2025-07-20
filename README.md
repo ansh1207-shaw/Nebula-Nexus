@@ -26,5 +26,4 @@ campus-club-dashboard/
 
 ---
 
-## 📬 Connect
-Made with ❤️ for campus hackathons.  
+  
